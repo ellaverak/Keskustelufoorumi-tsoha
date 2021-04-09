@@ -17,3 +17,7 @@ Saatan yrittää lisätä foorumille vielä muita ominaisuuksia,
 esim: 
 "palkintojen/kiitosten" jakaminen muille käyttäjille.
 Yksityisviestien lähettäminen.
+
+Current state:
+
+-creating a new user is now possible
