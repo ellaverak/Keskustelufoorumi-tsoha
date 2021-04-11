@@ -21,3 +21,9 @@ Yksityisviestien lähettäminen.
 Current state:
 
 -creating a new user is now possible
+-currently working on making logging in and out work
+
+I had a lot of problems with getting psql and heroku
+to work and I've fallen behind the schedule so the
+base of this programme is not ready yet.
+I'm trying to catch up during the following weeks.
